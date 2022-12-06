@@ -150,6 +150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _vehicleView: {fileID: 0}
+  _vehicleHudView: {fileID: 0}
 --- !u!114 &2921102392665639274
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -163,6 +164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playerNetworkSender: {fileID: 0}
+  _vehicleController: {fileID: 0}
   _input: {x: 0, y: 0}
 --- !u!114 &3284891365683764193
 MonoBehaviour:
